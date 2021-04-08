@@ -391,16 +391,13 @@ body {
     width: 100;
   }
 
-  ul.nav-links {
+  ul.nav-links.show{
     display: block;
     margin-top: 20px;
     margin-left: 550px;
   }
 
-  .show {
 
-    display: block;
-  }
 
   ul li {
     list-style: none;
@@ -751,7 +748,7 @@ body {
     width: 100;
   }
 
-  ul.nav-links{
+  ul.nav-links.show{
     display: block;
     margin-top: 20px;
     margin-left: 550px;
@@ -1112,7 +1109,7 @@ body {
     width: 100;
   }
 
-  ul.nav-links {
+  ul.nav-links.show {
     display: block;
     margin-top: 20px;
     margin-left: 210px;
@@ -1474,7 +1471,7 @@ body {
     width: 100;
   }
 
-  ul.nav-links{
+  ul.nav-links.show{
     display: block;
     margin-top: 20px;
     margin-left: 150px;
